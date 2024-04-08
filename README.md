@@ -14,3 +14,5 @@ In this project, we use MovieLens 25M Dataset (https://grouplens.org/datasets/mo
 4. Compare the pros and cons of these two models and report it.
 
 You are suggested to choose suitable machine learning models in MLlib to do this task and you can refer to https://spark.apache.org/docs/latest/ml-guide.html Links to an external site.for more help.
+
+The  distributed spark environment is based on Google Dataproc (https://cloud.google.com/dataproc)
